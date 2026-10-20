@@ -20,4 +20,4 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
 - `car_price_prediction.ipynb` — Jupyter Notebook containing data analysis, preprocessing, model training, and evaluation.
 
-*Note: The original dataset is not included in this repository.*
+*Note: The dataset was provided as part of a university course and is not included in this repository.*
